@@ -1,0 +1,27 @@
+[submodule "radar-prmt-android"]
+	path = radar-prmt-android
+	url = https://github.com/sboettcher/radar-prmt-android.git
+[submodule "RADAR-Schemas"]
+	path = RADAR-Schemas
+	url = https://github.com/sboettcher/RADAR-Schemas.git
+[submodule "radar-commons"]
+	path = radar-commons
+	url = https://github.com/sboettcher/radar-commons.git
+[submodule "radar-android-application-status"]
+	path = radar-android-application-status
+	url = https://github.com/sboettcher/radar-android-application-status.git
+[submodule "radar-commons-android"]
+	path = radar-commons-android
+	url = https://github.com/sboettcher/radar-commons-android.git
+[submodule "radar-android-phone"]
+	path = radar-android-phone
+	url = https://github.com/sboettcher/radar-android-phone.git
+[submodule "radar-android-eegsync"]
+	path = radar-android-eegsync
+	url = https://github.com/sboettcher/radar-android-eegsync.git
+[submodule "radar-android-empatica"]
+	path = radar-android-empatica
+	url = https://github.com/sboettcher/radar-android-empatica.git
+[submodule "radar-android-biovotion"]
+	path = radar-android-biovotion
+	url = https://github.com/sboettcher/radar-android-biovotion.git
