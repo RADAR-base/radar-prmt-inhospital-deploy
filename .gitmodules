@@ -25,3 +25,6 @@
 [submodule "radar-android-biovotion"]
 	path = radar-android-biovotion
 	url = https://github.com/sboettcher/radar-android-biovotion.git
+[submodule "RADAR-Docker"]
+	path = RADAR-Docker
+	url = https://github.com/sboettcher/RADAR-Docker.git
