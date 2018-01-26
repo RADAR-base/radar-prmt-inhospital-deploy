@@ -28,6 +28,8 @@ Submodule revision info in this repository.
 
 | DIR                                 | BRANCH                     | ORIGIN                                                  | REV     |
 |-------------------------------------|----------------------------|---------------------------------------------------------|---------|
+| ./RADAR-Docker                      | dev                        | github.com/RADAR-base/RADAR-Docker                      | 185438e |
+| ./RADAR-Schemas                     | dev                        | github.com/RADAR-base/RADAR-Schemas                     | 63431a1 |
 | ./radar-android-application-status  | deploy/dev                 | github.com/RADAR-base/radar-android-application-status  | 0deac16 |
 | ./radar-android-biovotion           | deploy/gap_restructure     | github.com/RADAR-base/radar-android-biovotion           | 26814f6 |
 | ./radar-android-eegsync             | deploy/dev                 | github.com/sboettcher/radar-android-eegsync             | d986b60 |
@@ -35,9 +37,7 @@ Submodule revision info in this repository.
 | ./radar-android-phone               | deploy/dev                 | github.com/RADAR-base/radar-android-phone               | 94a1ffe |
 | ./radar-commons                     | deploy/dev                 | github.com/RADAR-base/radar-commons                     | b6fd31f |
 | ./radar-commons-android             | deploy/dev                 | github.com/RADAR-base/radar-commons-android             | 07ae992 |
-| ./radar-prmt-android                | deploy/trivial_login       | github.com/RADAR-base/radar-prmt-android                | 9b04a55 |
-| ./RADAR-Schemas                     | dev                        | github.com/RADAR-base/RADAR-Schemas                     | 63431a1 |
-| ./RADAR-Docker                      | dev                        | github.com/RADAR-base/RADAR-Docker                      | 185438e |
+| ./radar-prmt-android                | deploy/trivial_login       | github.com/RADAR-base/radar-prmt-android                | 1952673 |
 
 ## Changelog to base branches
 ...
