@@ -31,7 +31,7 @@ Submodule revision info in this repository.
 | ./RADAR-Docker                      | dev                        | github.com/RADAR-base/RADAR-Docker                      | 185438e |
 | ./RADAR-Schemas                     | dev                        | github.com/RADAR-base/RADAR-Schemas                     | 63431a1 |
 | ./radar-android-application-status  | deploy/dev                 | github.com/RADAR-base/radar-android-application-status  | 0deac16 |
-| ./radar-android-biovotion           | deploy/gap_restructure     | github.com/RADAR-base/radar-android-biovotion           | dfd39b9 |
+| ./radar-android-biovotion           | deploy/dev                 | github.com/RADAR-base/radar-android-biovotion           | 10e701f |
 | ./radar-android-eegsync             | deploy/dev                 | github.com/sboettcher/radar-android-eegsync             | d986b60 |
 | ./radar-android-empatica            | deploy/dev                 | github.com/RADAR-base/radar-android-empatica            | 6c40f04 |
 | ./radar-android-phone               | deploy/dev                 | github.com/RADAR-base/radar-android-phone               | 94a1ffe |
