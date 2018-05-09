@@ -36,7 +36,7 @@ Submodule revision info in this repository.
 | ./radar-android-empatica            | deploy/dev                 | github.com/RADAR-base/radar-android-empatica            | 6c40f04 |
 | ./radar-android-phone               | deploy/dev                 | github.com/RADAR-base/radar-android-phone               | 94a1ffe |
 | ./radar-commons                     | deploy/dev                 | github.com/RADAR-base/radar-commons                     | 7f37cb3 |
-| ./radar-commons-android             | deploy/dev                 | github.com/RADAR-base/radar-commons-android             | a92e351 |
+| ./radar-commons-android             | deploy/dev                 | github.com/RADAR-base/radar-commons-android             | bffab85 |
 | ./radar-prmt-android                | deploy/trivial_login       | github.com/RADAR-base/radar-prmt-android                | 1952673 |
 
 ## Changelog to base branches
