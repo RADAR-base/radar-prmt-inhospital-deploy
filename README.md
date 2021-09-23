@@ -1,4 +1,6 @@
 # radar-prmt-inhospital-deploy
+> :warning: **Archived Repository**:
+
 This is a submodule collection of RADAR-CNS pRMT repositories, for the purpose of aligned inhospital study setups/deployment.
 It can also be used to set up a locally editable and compilable codebase of the pRMT app, for development.
 
